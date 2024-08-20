@@ -26,11 +26,11 @@
 
 body {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-
-    transition: .5s;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+transition: .5s;
+flex-direction: column;
 }
 .download-song {
     text-align: center;
@@ -211,6 +211,23 @@ body {
     position: absolute;
     border-radius: inherit;
     background: linear-gradient(var(--main-color) 0%, var(--secundary-color) 100%);
+}
+footer {
+    margin-top: 30px;
+    font-size: 11px;
+    background: #f8f8f8;
+    width: 380px;
+    padding: 30px;
+    color: #171717;
+    font-family: 'Fira Code', monospace;
+}
+
+footer a {
+    text-decoration-line: none;
+}
+
+.desenvolvedor {
+    margin-top: 20px;
 }
 
 .play-pause i {
