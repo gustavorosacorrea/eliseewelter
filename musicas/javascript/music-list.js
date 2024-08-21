@@ -4,5 +4,11 @@ let allMusic = [
         artist: "Gustavo Rosa Corrêa",
         img: "jcunh",
         src: "jcunh"
+    },
+    {
+        name: "Eu Vou Votar Elise e Welter",
+        artist: "Sinara e Gustavo",
+        img: "jcunh",
+        src: "Eu-vou-votar_-_ Sinara-e-Gustavo"
     }
 ]
