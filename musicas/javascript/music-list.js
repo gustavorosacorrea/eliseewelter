@@ -7,8 +7,14 @@ let allMusic = [
 	},
 	{
 	name: "Eu Vou Votar Elise e Welter",
-	artist: "Sinara e Gustavo",
+	artist: "Sinara Kochenborger e Gustavo R Corrêa",
 	img: "jcunh",
 	src: "Eu-vou-votar_-_Sinara-e-Gustavo"
-	}   
+	},
+	{
+	name: "Com Elise e Welter Campo Novo Vai Mudar",
+	artist: "Gustavo R Corrêa e Sinara Kochenborger",
+	img: "jcunh",
+	src: "campo-novo-vai-mudar"
+	}
 ]
