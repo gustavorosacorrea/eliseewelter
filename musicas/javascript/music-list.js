@@ -16,5 +16,11 @@ let allMusic = [
 	artist: "Gustavo R Corrêa e Sinara Kochenborger",
 	img: "jcunh",
 	src: "campo-novo-vai-mudar"
+	},
+	{
+	name: "Para mim, para nós, para Todos",
+	artist: "Gustavo R Corrêa e Elizeu Teixeira",
+	img: "jcunh",
+	src: "para-mim-para-nos-para-todos"
 	}
 ]
